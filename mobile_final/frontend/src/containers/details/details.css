@@ -1,0 +1,71 @@
+
+.main{
+    background-color: #E0E9E9;
+    width: 100%;
+    padding: 80px;
+}
+.bg{
+    width: 290px;
+    height: 340px;
+    background-color: white;
+    border-radius: 15px;
+    text-align: center;
+}
+.big_photo{
+    margin-top: 55px;
+    width: 200px;
+    height: 200px;
+}
+.small{
+    width: 90px;
+    height: 90px;
+    border-radius: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.name{
+    font-weight: lighter;
+    font-size: 20px;
+}
+.price{
+    font-weight: normal;
+    font-size: 18px;
+    color: rgb(136, 170, 170);
+}
+.des{
+    font-weight: lighter;
+    margin-top: 25px;
+    color:black;
+    font-size: 16px;
+}
+.des_text{
+    font-weight: lighter;
+    margin-top: 25px;
+    color:black;
+    font-size: 14px;
+}
+button{
+    border-radius: 10px;
+    height: 50px;
+    width: 150px;
+    padding: 10px;
+    background-color: white;
+    margin: 20px;
+    color:  rgb(197, 207, 207);
+    border: solid 3px #DCE6E6;
+}
+.titleh5{
+    text-align: left;padding-bottom: 15px;
+}
+.cardPhoto{
+    width: 50px; height: 50px; border-radius: 25px
+}
+.divi{
+    font-size: smaller; padding:10px; border: black 1px solid; border-radius: 10px;margin: 1px 50px 20px 20px;text-align: center;}
+.ta{
+    text-align: left;
+}
+.btn-warning{
+    margin: 7px;
+    background-color: white;
+}

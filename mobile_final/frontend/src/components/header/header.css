@@ -1,0 +1,31 @@
+.active{
+	background-color: #000000;
+}
+
+#cloth{
+    color: #000000;
+    font-weight: lighter;
+}
+
+.nav-link{
+	color: #000000;
+	font-size: 14px;
+	display: inline;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav-item{
+	padding-top: 15px;
+	margin-left: 10px;
+	padding-bottom: 15px;
+}
+nav{
+	padding-top: 5px;
+}
+  a:hover {
+  color:  grey;
+}  
+
+#active{
+	 color:  white;
+}
